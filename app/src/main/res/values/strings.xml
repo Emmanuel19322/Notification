@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="schedule_notification">Schedule Notification</string>
+</resources>
